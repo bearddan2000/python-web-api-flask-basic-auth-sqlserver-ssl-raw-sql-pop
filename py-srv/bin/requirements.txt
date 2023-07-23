@@ -1,0 +1,5 @@
+Flask
+Flask-httpauth
+Flask-SQLAlchemy
+SQLAlchemy
+pymssql
